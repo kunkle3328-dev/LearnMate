@@ -1,0 +1,7 @@
+{
+  "name": "LearnMate",
+  "description": "A high-fidelity learning platform that utilizes the Gemini API to search, summarize, and teach any topic with expert-level precision.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
